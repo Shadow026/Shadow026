@@ -86,7 +86,7 @@
 
 ## 🕹️ POWER-UPS / INTERESTS
 
-```
+```                               
 ├─ 📚 Reading              [████████░░] 80% XP
 ├─ 🎵 Music                [██████████] 100% XP  
 ├─ 🎮 Gaming               [██████████] 100% XP
@@ -100,9 +100,8 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pacomoreir@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)]([https://facebook.com](https://www.facebook.com/share/17HJnt83ef/))
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]([https://instagram.com](https://www.instagram.com/el_paco_i?igsh=ZTB0eTUzY3dob3Zl))
-
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/share/17HJnt83ef/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/el_paco_i?igsh=ZTB0eTUzY3dob3Zl)
 </div>
 
 ---
