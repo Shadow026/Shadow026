@@ -77,6 +77,8 @@
 <div align="center">
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shadow026&theme=github_dark)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shadow026&theme=github_dark)
+
 
 </div>
 
@@ -98,8 +100,8 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pacomoreir@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)]([https://facebook.com](https://www.facebook.com/share/17HJnt83ef/))
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]([https://instagram.com](https://www.instagram.com/el_paco_i?igsh=ZTB0eTUzY3dob3Zl))
 
 </div>
 
