@@ -20,11 +20,11 @@
 
 ```
 ┌─────────────────────────────────────────────────────┐
-│  NAME:         Francisco Saravia                      │
-│  CLASS:       Student & Developer                    │
+│  NAME:         Francisco Saravia                    │
+│  CLASS:       Student & Developer                   │
 │  LOCATION:    El Salvador 🇸🇻                        │
-│  LEVEL:       Learning N8n                           │
-│  STATUS:      Building pharmacy management systems   │
+│  LEVEL:       Learning N8n                          │
+│  STATUS:      Building pharmacy management systems  │
 └─────────────────────────────────────────────────────┘
 ```
 
@@ -57,16 +57,16 @@
 ```
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃ [●●●●●●●●●○] 90% COMPLETE                        ┃
-┃ 🏥 Pharmacy Queue Management System               ┃
-┃    Building a digital solution for efficient      ┃
-┃    turn management in pharmaceutical services.     ┃
+┃ 🏥 Pharmacy Queue Management System             ┃
+┃    Building a digital solution for efficient     ┃
+┃    turn management in pharmaceutical services.   ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ [★★★★★] LEGENDARY                                ┃
-┃ 🤟 Sign Language Translator                       ┃
-┃    Accessibility project bridging communication   ┃
-┃    through technology and innovation.             ┃
+┃ [★★★★★] LEGENDARY                             ┃
+┃ 🤟 Sign Language Translator                     ┃
+┃    Accessibility project bridging communication  ┃
+┃    through technology and innovation.            ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
@@ -111,7 +111,7 @@
 ```
 ┌────────────────────────────────────────────────┐
 │ "Press START to collaborate"                   │
-│                                                 │
+│                                                │
 │ [A] Star repos  [B] Fork  [START] Contribute   │
 └────────────────────────────────────────────────┘
 ```
