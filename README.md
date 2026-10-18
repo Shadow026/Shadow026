@@ -126,7 +126,7 @@
 └────────────────────────────────────────────────┘
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shadow026&color=00FF41&style=for-the-badge)
+[![GitHub Followers](https://img.shields.io/github/followers/Shadow026?style=for-the-badge&label=Followers&color=00FF41)](https://github.com/Shadow026?tab=followers)
 
 **Thanks for visiting! May your code compile on the first try 🚀**
 
